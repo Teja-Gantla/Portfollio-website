@@ -6,3 +6,8 @@
 
 -->`git clone`
 
+**Clone the repo:**
+
+```bash
+git clone
+```
