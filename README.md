@@ -2,5 +2,5 @@
 
  ## Build With 
 
-$${\color{lightgreen}This \space is \space bult \space using}$$	
+### This is built using HTML,Tailwind css, React Js.
 
