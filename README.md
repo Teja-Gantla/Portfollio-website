@@ -2,4 +2,4 @@
 
  ## Build With 
 
-<code style="color : darkorange">This is built using</code>
+<code style="color:darkorange">This is built using</code>
